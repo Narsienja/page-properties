@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:contextHubPath="/etc/cloudsettings/default/contexthub"
+        cq:contextHubSegmentsPath="/etc/segmentation/contexthub"
+        cq:lastModified="{Date}2018-01-09T13:03:59.962-05:00"
+        cq:lastModifiedBy="admin"
+        cq:lastReplicated="{Date}2018-01-09T13:04:12.729-05:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/core/wcm/testtemplate"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="test page"
+        jcr:uuid="8193be01-cf25-4769-8caf-b3f33ab0a0b6"
+        sling:resourceType="core/wcm/components/page/v1/page"
+        bwprop="prop bw"
+        pageTitle="palee titg"/>
+</jcr:root>
